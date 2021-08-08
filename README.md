@@ -57,4 +57,11 @@ Normally, false triggering of timer IC 555 takes place during power on, resultin
 Link to the complete project : https://www.electronicsforu.com/electronics-projects/false-triggering-eliminator-timer-555
 
 ### Project 8
-https://www.electronicsforu.com/wp-contents/uploads/2016/05/Z31_1.jpg
+
+Coil gun using IC 555 timer
+
+![image](https://user-images.githubusercontent.com/85746610/128645731-c76c58d7-b69e-4bd5-b98d-ca722ca8ef73.png)
+
+Link to the complete project : https://easyeda.com/GreatScott/CoilGun_LogicSchematic-eu0UcuoFX
+
+Improvements: This project can be made much easily and less complicated using Arduino, here's link to the video explaining the same: https://www.youtube.com/watch?v=lzXMImK_wyM&ab_channel=GreatScott%21
