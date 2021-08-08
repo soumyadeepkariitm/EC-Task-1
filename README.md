@@ -65,3 +65,5 @@ Coil gun using IC 555 timer
 Link to the complete project : https://easyeda.com/GreatScott/CoilGun_LogicSchematic-eu0UcuoFX
 
 Improvements: This project can be made much easily and less complicated using Arduino, here's link to the video explaining the same: https://www.youtube.com/watch?v=lzXMImK_wyM&ab_channel=GreatScott%21
+
+Same project made with arduino: https://www.youtube.com/watch?v=PMU9TQUDhow&ab_channel=GreatScott%21
