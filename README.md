@@ -31,3 +31,30 @@ This project builds a real time clock using Arduino
 ![image](https://user-images.githubusercontent.com/85746610/128643427-6fb3cc54-c05c-460b-b78d-20a11192aa9a.png)
 
 Link to the complete project : https://simple-circuit.com/arduino-ds1307-ssd1306-oled/
+
+### Project 5
+
+Motion Detector Using NE555 Timer. This circuit is based on a passive infrared (PIR) sensor, which automatically switches on a device when someone comes close to it.
+
+![image](https://user-images.githubusercontent.com/85746610/128645567-daf42e5b-f804-46c2-a5fe-dc061d53adcf.png)
+
+Link to the complete project : https://www.electronicsforu.com/electronics-projects/hardware-diy/motion-detector-using-ne555-timer
+
+### Project 6
+
+This speed checker can come in handy for the highway traffic police. It will not only provide a digital display in accordance with a vehicle’s speed but also sound an alarm if the vehicle exceeds the permissible speed for the highway.
+
+![image](https://user-images.githubusercontent.com/85746610/128645590-915a70d0-7816-454e-be62-d4fdf905f39a.png)
+
+Link to the complete project : https://www.electronicsforu.com/electronics-projects/speed-checker-for-highways
+
+### Project 7
+
+Normally, false triggering of timer IC 555 takes place during power on, resulting in unwanted output, which starts the timer’s time cycle. The circuit becomes inefficient especially when the load has to be energised only when desired. Here is a simple false triggering eliminator circuit for timer 555.
+
+![image](https://user-images.githubusercontent.com/85746610/128645617-273c87d4-cb11-48e3-8e51-148d02d023a8.png)
+
+Link to the complete project : https://www.electronicsforu.com/electronics-projects/false-triggering-eliminator-timer-555
+
+### Project 8
+https://www.electronicsforu.com/wp-contents/uploads/2016/05/Z31_1.jpg
