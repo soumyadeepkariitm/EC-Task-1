@@ -8,3 +8,5 @@ An auto-ranging ohmmeter that uses an LCD and RGB LEDs to display the best-match
 Link to the complete project : https://leap.tardate.com/playground/rgbohmmeter/
 
 ### Project 2
+
+![gif](https://hackster.imgix.net/uploads/attachments/1053599/flick-music-demo_3uTVug5Ovq.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4)
