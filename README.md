@@ -9,4 +9,8 @@ Link to the complete project : https://leap.tardate.com/playground/rgbohmmeter/
 
 ### Project 2
 
-![image](https://hackster.imgix.net/uploads/attachments/1053599/flick-music-demo_3uTVug5Ovq.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4)
+This is an electronic instrument that converts hand waves into music.
+
+![flick-music-demo_3uTVug5Ovq](https://user-images.githubusercontent.com/85746610/128639123-f3171150-14df-4206-8f98-cea5b2528330.gif)
+
+Link to the complete project : https://create.arduino.cc/projecthub/lanmiLab/make-musical-instrument-using-arduino-and-flick-large-e2890b?ref=part&ref_id=8233&offset=2
